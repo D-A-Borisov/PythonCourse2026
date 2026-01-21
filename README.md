@@ -1,0 +1,1 @@
+# PythonCurse2026
